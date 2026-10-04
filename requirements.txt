@@ -1,0 +1,88 @@
+# ============================================================
+# Project 2 - Telecom AI Operations Center
+# Python: 3.11
+# ============================================================
+
+# -------------------------
+# LangGraph / LangChain
+# -------------------------
+langgraph
+langchain
+langchain-core
+
+# -------------------------
+# LlamaIndex - RAG
+# -------------------------
+llama-index
+llama-index-core
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+llama-index-llms-anthropic
+
+# -------------------------
+# Vector Database
+# -------------------------
+chromadb
+
+# -------------------------
+# Embeddings
+# -------------------------
+sentence-transformers
+
+# -------------------------
+# Anthropic
+# -------------------------
+anthropic
+
+# -------------------------
+# Google ADK / Gemini
+# -------------------------
+google-adk
+google-genai
+
+# -------------------------
+# A2A / Remote Agents
+# -------------------------
+a2a-sdk
+
+# -------------------------
+# CrewAI
+# -------------------------
+crewai
+
+# -------------------------
+# Streamlit UI
+# -------------------------
+streamlit
+
+# -------------------------
+# Web/API server
+# -------------------------
+fastapi
+uvicorn
+
+# -------------------------
+# Database
+# -------------------------
+sqlalchemy
+
+# -------------------------
+# Environment variables
+# -------------------------
+python-dotenv
+
+# -------------------------
+# HTTP / async support
+# -------------------------
+httpx
+
+# -------------------------
+# Data / numerical
+# -------------------------
+numpy<2.3
+pandas
+
+# -------------------------
+# PII / utilities
+# -------------------------
+pydantic
